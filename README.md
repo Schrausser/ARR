@@ -1,2 +1,3 @@
 # ARR
-Audiorecorder.
+Fast Android audiorecorder via light switch.
+
