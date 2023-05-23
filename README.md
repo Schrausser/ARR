@@ -1,5 +1,5 @@
 # ARR
-Fast Android audiorecorder via light switch.
+Audio Rapid Record `ARR`. Fast Android audiorecorder utilizing the light switch by gesture.
 
 ![figure.\label{pic1}](pic1.jpg)
 
