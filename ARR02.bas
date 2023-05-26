@@ -67,7 +67,7 @@ DO                                                                   % // RECORD
  GR.RENDER
  SENSORS.READ 8,dx,dx,bwg
  GOSUB tc_
-UNTIL bwg=1 | h1=99                                                  % // Max rec lenght      //
+UNTIL bwg=1 | h1=99                                                  % // Max rec length      //
 GOSUB arstp                                                          % // STOP                //
 GOSUB sens                   
 DO                                                                   % // STOP loop           //
