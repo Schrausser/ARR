@@ -223,6 +223,7 @@ TEXT.CLOSE arr
 PRINT _name$+" AudioRapidRecord "+_ver$         
 PRINT "Copyright "+_cr$+" 2023 by Dietmar Gerald SCHRAUSSER"
 PRINT "https://github.com/Schrausser/ARR"
+PRINT "DOI:10.5281/zenodo.7975741"
 RETURN
 ! // END //
 ! //
